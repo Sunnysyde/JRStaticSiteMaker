@@ -27,13 +27,19 @@ Instructions:
    - WALKTHROUGH_RUN_LOCALLY.md
    - HOW_TO_HOST.md
 
-3) Then give me:
+3) Before doing any implementation, give me a clear execution plan:
+   - Phases
+   - Ordered steps
+   - Risks/assumptions
+   - What you need from me at each checkpoint
+
+4) Then give me:
    - A short summary of what this repo does.
    - Exact commands to run locally.
    - Any missing prerequisites I should install.
    - A step-by-step plan to recreate and host the site.
 
-4) If anything is unclear, propose reasonable defaults and continue.
+5) If anything is unclear, propose reasonable defaults and continue.
 
 Start by listing the files and walking through the setup in order.
 ```
