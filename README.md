@@ -16,6 +16,8 @@ Goal:
 - Help me run or recreate the static site workflow from the included docs.
 
 Instructions:
+0) First ask me for my domain/site URL and confirm it before proceeding.
+
 1) Clone the repo:
    git clone https://github.com/Sunnysyde/JRStaticSiteMaker.git
    cd JRStaticSiteMaker
