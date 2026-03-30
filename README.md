@@ -15,7 +15,7 @@ Goal:
 
 Instructions:
 1) Clone the repo:
-   git clone <REPO_URL>
+   git clone https://github.com/Sunnysyde/JRStaticSiteMaker.git
    cd JRStaticSiteMaker
 
 2) Read these files first:
@@ -34,4 +34,4 @@ Instructions:
 Start by listing the files and walking through the setup in order.
 ```
 
-Replace `<REPO_URL>` with your GitHub repository URL after creation.
+Replace `https://github.com/Sunnysyde/JRStaticSiteMaker.git` with your GitHub repository URL after creation.
