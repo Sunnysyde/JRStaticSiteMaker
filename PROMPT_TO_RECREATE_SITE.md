@@ -6,7 +6,7 @@ Use this prompt with an AI coding agent when you want a one-for-one local mirror
 
 ```text
 Recreate this website one-for-one locally so it can later be hosted as static files:
-https://www.joesanderson.design/
+<TARGET_WEBSITE_URL>
 
 Requirements:
 1) Direct copy approach

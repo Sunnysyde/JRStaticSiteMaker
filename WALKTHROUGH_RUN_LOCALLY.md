@@ -9,7 +9,7 @@ This project is a static mirror. No build step is required.
 ## Start the local server
 
 ```bash
-cd /Users/jess/Desktop/JoeSanderson/mirror/site
+cd /path/to/JRStaticSiteMaker/mirror/site
 python3 -m http.server 4173
 ```
 
@@ -18,7 +18,7 @@ python3 -m http.server 4173
 Open this URL in your browser:
 
 ```text
-http://localhost:4173/www.joesanderson.design/index.html
+http://localhost:4173/<site-root-folder>/index.html
 ```
 
 ## Stop the server
@@ -32,14 +32,14 @@ Ctrl + C
 ## Optional: run on a different port
 
 ```bash
-cd /Users/jess/Desktop/JoeSanderson/mirror/site
+cd /path/to/JRStaticSiteMaker/mirror/site
 python3 -m http.server 8080
 ```
 
 Then open:
 
 ```text
-http://localhost:8080/www.joesanderson.design/index.html
+http://localhost:8080/<site-root-folder>/index.html
 ```
 
 ## Quick troubleshooting

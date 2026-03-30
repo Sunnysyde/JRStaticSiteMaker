@@ -15,11 +15,11 @@ Important constraints:
 5) Prefer the safest path with easiest rollback.
 
 Project details:
-- GitHub repo URL: https://github.com/Sunnysyde/JoeSanderson
+- GitHub repo URL: <YOUR_GITHUB_REPO_URL>
 - Branch: main
 - Site is static and already mirrored.
 - Primary site entry currently works locally at:
-  /mirror/site/www.joesanderson.design/index.html
+  /mirror/site/<your-domain>/index.html
 - Goal: host on Cloudflare and map my domain to it.
 
 What I need you to do end-to-end:
@@ -42,15 +42,15 @@ C) Route handling
 - Ensure these routes resolve:
   /
   /about/
-  /work/google-fitbit-ace/
-  /work/timberland-timbstrails/
-  /work/a-leagues/
-  /work/google-women-will/
-  /work/uob/
+  /work/project-one/
+  /work/project-two/
+  /work/project-three/
+  /work/project-four/
+  /work/project-five/
 - If a Pages redirect/rewrite rule is needed, implement it.
 
 D) Custom domain + DNS
-- Ask me for the exact domain/subdomain target before cutover (examples: joesanderson.design, www.joesanderson.design, portfolio.mydomain.com).
+- Ask me for the exact domain/subdomain target before cutover (examples: example.com, www.example.com, portfolio.mydomain.com).
 - Add the custom domain in Cloudflare Pages.
 - Configure required DNS records in Cloudflare DNS.
 - Ensure SSL/TLS is active (Full or recommended secure mode).
