@@ -2,6 +2,8 @@
 
 This repository contains source prompts and guides for recreating and hosting a static site.
 
+Repository URL: https://github.com/Sunnysyde/JRStaticSiteMaker
+
 ## LLM Quickstart Prompt
 
 Copy and paste the prompt below into your LLM of choice:
@@ -15,7 +17,7 @@ Goal:
 
 Instructions:
 1) Clone the repo:
-   git clone <REPO_URL>
+   git clone https://github.com/Sunnysyde/JRStaticSiteMaker.git
    cd JRStaticSiteMaker
 
 2) Read these files first:
@@ -34,4 +36,4 @@ Instructions:
 Start by listing the files and walking through the setup in order.
 ```
 
-Replace `<REPO_URL>` with your GitHub repository URL after creation.
+If you fork this project, replace the clone URL above with your fork URL.
